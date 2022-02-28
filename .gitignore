@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+cmd/metrics-list/metrics-list
 
 # Test binary, built with `go test -c`
 *.test
